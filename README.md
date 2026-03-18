@@ -11,7 +11,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darshit2308-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshit2308)
 [![GitHub](https://img.shields.io/badge/GitHub-darshit2308-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshit2308)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
 
 <br/>
@@ -32,22 +32,6 @@
 | **Overall Winner** | IIITM Winter Project Hackathon | Development Track |
 
 </div>
-
----
-
-## 🌐 Open Source — Hiero Ledger
-
-> Currently contributing to **[hiero-ledger](https://github.com/hiero-ledger)** — the open-source foundation behind the Hedera ecosystem.
-
-```
-📦 hiero-sdk-cpp     → Merged PR: feat: Add /unassign command for self-unassignment
-🤖 hiero-probot      → Building a centralised GitHub workflow automation service
-                        that scales horizontally across all Hiero repositories
-```
-
-**Why this matters:** Instead of patching the same bot logic across every repo individually,
-a single Probot service handles `/assign`, `/unassign`, PR checks, and label management
-organisation-wide — one change, every repo benefits.
 
 ---
 
@@ -96,14 +80,14 @@ NFT-based insurance policies with automated on-chain payouts.
 </td>
 <td width="50%">
 
-### 🔗 Hiero Centralised Workflow Probot
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/darshit2308/hiero-workflow-probot)
+### 📚 Library — Real-Time Book Tracker
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/darshit2308/Library)
 
-A single Probot service replacing per-repo bot scripts across the entire Hiero organisation.
+Real-time library management system tracking read/unread status across a live collection.
 
-- `/assign` with skill prerequisites + assignment limits
-- `/unassign` with authorization + label reversion
-- Stack: `Node.js` `Probot` `GitHub API` `GraphQL`
+- Real-time updates with live state sync
+- Clean, responsive UI
+- Stack: `CSS` `JavaScript` `HTML`
 
 </td>
 </tr>
