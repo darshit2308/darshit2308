@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Darshit%20Khandelwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20Web3%20%C3%97%20Open%20Source%20%C3%97%20Identity&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🏆+International+Hackathon+Winner;🔐+ZK+Proofs+%7C+Decentralised+Identity;⚡+Open+Source+Contributor+%40+Hiero+Ledger;🤖+Building+Centralised+GitHub+Workflow+Bots;🦀+Solidity+%7C+Rust+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=🏆+International+Hackathon+Winner;🔐+ZK+Proofs+%7C+Decentralised+Identity;🤖+Building+Centralised+GitHub+Workflow+Bots;⚡+Solidity+%7C+Rust+%7C+TypeScript+%7C+Node.js;🌐+Web3+%7C+Open+Source+%7C+Identity" alt="Typing SVG" />
 
 <br/>
 
@@ -154,10 +154,10 @@ Real-time library management system tracking read/unread status across a live co
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/darshit2308/darshit2308/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshit2308&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
