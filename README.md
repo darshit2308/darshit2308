@@ -166,7 +166,7 @@ Real-time library management system tracking read/unread status across a live co
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-**📬 darshit2308@gmail.com · IIITM Gwalior · B.Tech IT · 2023–2027**
+**📬 darshit2308@gmail.com · IIITM Gwalior · B.Tech CSE · 2023–2027**
 
 *"Ship fast. Verify cryptographically. Trust no one."*
 
