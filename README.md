@@ -16,7 +16,21 @@
 
 <br/>
 
+---
+
+## 💼 Experience
+
+**LFX Mentee — Contributor Identity Verification**  
+*Linux Foundation Decentralized Trust (LFDT) · Hiero Ledger* — `June 2026 – Present`
+
+- Architecting a decentralized identity pipeline for the Hiero ecosystem using Hedera-anchored DIDs to prevent contributor impersonation and automated abuse
+- Engineering a self-sovereign auth backend in `Node.js` + `Credo-ts`, issuing W3C Verifiable Credentials via OID4VCI and verifying them at PR-time via OID4VP
+- Building a Probot GitHub App that intercepts `pull_request` webhooks and enforces cryptographic checks via the GitHub Checks API
+
+<br/>
+
 </div>
+
 
 ---
 
@@ -24,12 +38,14 @@
 
 <div align="center">
 
-| 🥇 Trophy | 🏅 Competition | 📌 Track |
+| 🥇 Position | 🏅 Competition | 📌 Track |
 |:---:|:---:|:---:|
 | **1st Place** | zkVerify International Web3 Hackathon | Main Track |
 | **1st Place** | zkVerify International Web3 Hackathon | Arbitrum Track |
 | **Winner** | Swellcity Buildathon | Restaking Infrastructure |
+| Mentee | LFX | Hiero-Ledger
 | **Overall Winner** | IIITM Winter Project Hackathon | Development Track |
+| Top 1% (1500) | Google's **Big Code** | Coding Competition |
 
 </div>
 
@@ -166,7 +182,7 @@ Real-time library management system tracking read/unread status across a live co
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-**📬 darshit2308@gmail.com · IIITM Gwalior · B.Tech CSE · 2023–2027**
+**📬 darshit2308@gmail.com · IIITM Gwalior · B.Tech + M.Tech IT · 2023–2028**
 
 *"Ship fast. Verify cryptographically. Trust no one."*
 
