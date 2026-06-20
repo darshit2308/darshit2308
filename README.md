@@ -23,7 +23,7 @@
 
 ---
 
-## 🏆 Hackathon Wins
+## 🏆 Hackathon And other Achievements
 
 <div align="center">
 
