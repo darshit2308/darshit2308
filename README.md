@@ -18,17 +18,6 @@
 
 ---
 
-## 💼 Experience
-
-**LFX Mentee — Contributor Identity Verification**  
-*Linux Foundation Decentralized Trust (LFDT) · Hiero Ledger* — `June 2026 – Present`
-
-- Architecting a decentralized identity pipeline for the Hiero ecosystem using Hedera-anchored DIDs to prevent contributor impersonation and automated abuse
-- Engineering a self-sovereign auth backend in `Node.js` + `Credo-ts`, issuing W3C Verifiable Credentials via OID4VCI and verifying them at PR-time via OID4VP
-- Building a Probot GitHub App that intercepts `pull_request` webhooks and enforces cryptographic checks via the GitHub Checks API
-
-<br/>
-
 </div>
 
 
